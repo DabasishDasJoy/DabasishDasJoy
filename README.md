@@ -15,20 +15,22 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 
-<a href="https://www.facebook.com/dabasishdas.joy/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
+<a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
 
-<a href="https://dabasishdasjoy92@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
+<a href="https://dabasishdasjoy92@gmail.com"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
-<a href="https://www.linkedin.com/in/dabasishdasjoy92/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
+<a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
 <br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
+
+<a href="https://dabasishdasjoy92@gmail.com"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
+
+<a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
