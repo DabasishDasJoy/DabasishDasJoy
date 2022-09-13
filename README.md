@@ -20,7 +20,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
-<a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
