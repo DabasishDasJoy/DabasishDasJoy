@@ -66,8 +66,8 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DabasishDasJoy)](https://github.com/DabasishDasJoy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DabasishDasJoy&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&layout=compact)](https://github.com/DabasishDasJoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&layout=compact&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.DabasishDasJoy)]()
