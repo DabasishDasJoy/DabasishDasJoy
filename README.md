@@ -70,4 +70,4 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&layout=compact)](https://github.com/DabasishDasJoy)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.DabasishDasJoy)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.DabasishDasJoy)]()
