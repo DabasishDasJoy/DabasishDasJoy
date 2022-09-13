@@ -15,7 +15,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ### 🤝 Connect with me:
 
 
-<a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="21px"/></a>
+<a href="https://www.facebook.com/dabasishdas.joy/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
+<a href="dabasishdasjoy92@gmail.com" target="_blank"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
