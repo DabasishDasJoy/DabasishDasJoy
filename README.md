@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/43771243/189829111-e6d50ee0-64f2-4d3b-83ed-5480f2f96ac4.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/43771243/189854072-87222950-790a-4844-a07d-3c080dfac4c4.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
