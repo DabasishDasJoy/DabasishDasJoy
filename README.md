@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/43771243/189829111-e6d50ee0-64f2-4d3b-83ed-5480f2f96ac4.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/43771243/189829111-e6d50ee0-64f2-4d3b-83ed-5480f2f96ac4.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Dabasish Das Joy</a> 👋
 </h3>
 
 <h2 align="center">
@@ -14,21 +14,11 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-
 <a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
 
 <a href="https://dabasishdasjoy92@gmail.com"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
 <a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
-
-<br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
-
-### 🤝 Connect with me:
-
-<a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
-
-<a href="https://dabasishdasjoy92@gmail.com"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 
 <a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 </br>
@@ -37,22 +27,19 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- JavaScript
+- React
+- HTML
+- CSS
+- API  
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cpp&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
