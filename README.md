@@ -40,7 +40,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=E34F26)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=764ABC)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=764ABC)
 
 </br>
 
