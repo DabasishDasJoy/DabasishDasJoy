@@ -3,11 +3,12 @@
 </p>
 
 <h3 align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hi, I am <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Dabasish</a></h1>
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 and Competetive Programmer 💻!
+Full-Stack Web Developer 💻 and Competetive Programmer 💻!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
