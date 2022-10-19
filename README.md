@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Dabasish Das Joy</a> 👋
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
 </h3>
 
 <h2 align="center">
