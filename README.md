@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hi, I am <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+<h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hi, I am <a href="" target="blank">
 Dabasish</a></h1>
 </h3>
 
