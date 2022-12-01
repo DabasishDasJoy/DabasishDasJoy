@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/43771243/189854072-87222950-790a-4844-a07d-3c080dfac4c4.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/mTsYKyd/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
