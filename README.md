@@ -34,6 +34,8 @@ I love the entire process of developing creative websites. I love the challenge 
 - HTML
 - CSS
 - API  
+- Node.js
+- MongoDb
 
 ## 💼 Technical Skills
 
