@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/mTsYKyd/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="C:\projects\DabasishDasJoy\images\Navy Blue Geometric Technology LinkedIn Banner (1).png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -9,7 +9,7 @@ Dabasish</a></h1>
 
 <h2 align="center">
 Full-Stack Web Developer 💻 and Competetive Programmer 💻!
-</h2> 
+</h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -21,6 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
@@ -33,7 +34,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - React
 - HTML
 - CSS
-- API  
+- API
 - Node.js
 - MongoDb
 
@@ -53,7 +54,6 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 
-
 </br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
@@ -62,10 +62,8 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-## 📈 GitHub Stats 
+## 📈 GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DabasishDasJoy&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&layout=compact&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
-
