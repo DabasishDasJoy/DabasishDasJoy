@@ -1,4 +1,4 @@
-<!-- <img src="https://i.ibb.co/mTsYKyd/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="my banner"> -->
+<img src="https://i.ibb.co/mTsYKyd/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="my banner">
 
 
 <h3 align="center">
