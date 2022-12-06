@@ -1,5 +1,6 @@
-<img src="https://ibb.co/zxcLg2C" alt="my banner">
-
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/mTsYKyd/Navy-Blue-Geometric-Technology-Linked-In-Banner-1.png" alt="my banner"></a>
+</p>
 
 <h3 align="center">
 <h1 align="center"><img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hi, I am <a href="" target="blank">
