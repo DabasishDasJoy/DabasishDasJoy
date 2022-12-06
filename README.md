@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="images/Navy Blue Geometric Technology LinkedIn Banner (1).png" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="images/Beige Modern Elegant Personal LinkedIn Banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
