@@ -8,7 +8,7 @@ Dabasish</a></h1>
 </h3>
 
 <h2 align="center">
- Software Engineer | A MERN Stack Developer | JavaScript Developer
+ Software Engineer | Backend | NodeJs
 </h2>
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
