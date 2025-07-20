@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-<h1 align="center"><img width="35" src="[https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif](https://iam-weijie.github.io/wave/hand-emoji.svg)"> Hi, I am <a href="https://dabasish-das-joy.netlify.app/" target="blank">
+<h1 align="center"><img width="35" src="https://iam-weijie.github.io/wave/hand-emoji.svg"> Hi, I am <a href="https://dabasish-das-joy.netlify.app/" target="blank">
 Dabasish</a></h1>
 </h3>
 
