@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="images/banner.png" alt="my banner"></a>
+</p>
+
 <h3 align="center">
 <h1 align="center"><img width="35" src="https://iam-weijie.github.io/wave/hand-emoji.svg"> Hi, I am <a href="https://dabasishdasjoy.github.io/dabasish.site" target="blank">
 Dabasish</a></h1>
