@@ -1,71 +1,134 @@
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="images/Beige Modern Elegant Personal LinkedIn Banner.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
-<h1 align="center"><img width="35" src="https://iam-weijie.github.io/wave/hand-emoji.svg"> Hi, I am <a href="https://dabasish-das-joy.netlify.app/" target="blank">
+<h1 align="center"><img width="35" src="https://iam-weijie.github.io/wave/hand-emoji.svg"> Hi, I am <a href="https://dabasishdasjoy.github.io/dabasish.site" target="blank">
 Dabasish</a></h1>
 </h3>
 
-<h2 align="center">
- Software Engineer | Backend | NodeJs
-</h2>
+<div align="center">
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+### Software Engineer | Golang, Nestjs, AI | Building Scalable Systems
 
-### 🤝 Connect with me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-dabasish.site-blue?style=for-the-badge)](https://dabasishdasjoy.github.io/dabasish.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dabasishjoy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabasish.joy9@gmail.com)
 
-<a href="https://www.facebook.com/dabasishdas.joy/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/facebook.png" alt="Dabasish Das Joy | Facebook" width="25px"/></a>
+</div>
 
-<a href="https://dabasishdasjoy92@gmail.com"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/gmail.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
+---
 
-<a href="https://www.linkedin.com/in/dabasishdasjoy92/"><img align="left" src="https://raw.githubusercontent.com/DabasishDasJoy/DabasishDasJoy/main/images/linkedin.png" alt="Dabasish Das Joy | Email" width="25px"/></a>
-</br>
+## 👨‍💻 About Me
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+I'm a passionate **Backend Software Engineer** specializing in building scalable, high-performance server-side applications. I love architecting robust APIs, designing microservices, and working with distributed systems.
 
-## 🔭 I'm currently working on
+- 🔭 Currently working on building scalable backend systems with **NestJS** and **Golang**
+- 🌱 Learning **Kubernetes**, **Cloud Architecture**, and **System Design**
+- 💬 Ask me about **REST APIs**, **Microservices**, **Database Optimization**, or **Backend Architecture**
+- ⚡ Fun fact: I enjoy optimizing code performance and solving complex technical challenges
 
-- My old projects
+---
 
-## 🌱 I'm currently learning
+## 🛠️ Tech Stack
 
-- Golang
-- NestJs
-- JavaScript
-- React
-- HTML
-- CSS
-- API
-- Node.js
-- MongoDb
+### Backend Technologies
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 💼 Technical Skills
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=764ABC)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&color=764ABC)
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</br>
+### APIs & Protocols
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=Tailwindcss&color=00C7B7)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+### Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
 
-</br>
+---
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+## 📊 GitHub Stats
 
-## 📈 GitHub Stats
+<div align="center">
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DabasishDasJoy&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DabasishDasJoy&theme=tokyonight&hide_border=false&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&layout=compact&theme=algolia&show_icons=true)](https://github.com/DabasishDasJoy)
+![GitHub Streak](https://streak-stats.demolab.com/?user=DabasishDasJoy&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DabasishDasJoy&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact)
+
+</div>
+
+---
+
+## 🎯 What I'm Good At
+
+- 🏗️ **Architecture & Design**: Designing scalable microservices and distributed systems
+- 🚀 **Performance**: Optimizing APIs and database queries for high throughput
+- 🔒 **Security**: Implementing authentication, authorization, and secure coding practices
+- 🧪 **Testing**: Writing comprehensive unit and integration tests
+- 📚 **Clean Code**: Writing maintainable, well-documented, and SOLID-compliant code
+- ☁️ **Cloud & DevOps**: Containerization, CI/CD pipelines, and cloud deployment
+
+<!-- ---
+
+## 💼 Featured Projects
+
+### 🛒 E-Commerce API
+Scalable RESTful API built with NestJS featuring user authentication, payment processing, and order management.
+
+**Tech Stack:** NestJS | PostgreSQL | TypeScript | JWT
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DabasishDasJoy/ecommerce-api)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+### 💬 Real-time Chat Service
+High-performance chat service built with Golang and WebSockets supporting multiple rooms and message persistence.
+
+**Tech Stack:** Golang | WebSocket | Redis | Docker
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DabasishDasJoy/chat-service)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+--- -->
+
+## 📈 Recent Activity
+
+<!-- GitHub Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DabasishDasJoy&theme=tokyo-night&hide_border=true)
+
+## 🤝 Let's Connect
+
+I'm always open to discussing backend development, system architecture, or potential collaborations!
+
+- 📧 Email: [dabasish.joy9@gmail.com](mailto:dabasish.joy9@gmail.com)
+- 💼 LinkedIn: [Dabasish Das Joy](https://linkedin.com/in/dabasishjoy)
+- 🌐 Portfolio: [dabasish.site](https://dabasish.site)
+
+---
+
+## 💡 Quote
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile!** 😊
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DabasishDasJoy&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
